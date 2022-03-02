@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Volumes/DentaDATA/ITS/Informatics/3rd Term/PBO/FP_OOP_BreakoutMax_Denta Bramasta Hidayat (5025201116)_Christian J H Pakpahan (5025201153)_Muhammad Fadli Azhar (5025201157)/FP-OOP-BM"/>
+			<item value="/Volumes/DentaDATA/FPOOPBM"/>
+			<item value="/Volumes/DentaDATA/FP-OOP-BM"/>
+			<item value="/Volumes/DentaDATA/Vs Code/Java/FP-OOP/FP-OOP-BM"/>
+			<item value="/Volumes/DentaDATA/Intellij/Week14"/>
+			<item value="/Volumes/DentaDATA/Intellij/PacWeek7/src/pacweek14"/>
+			<item value="/Volumes/DentaDATA/ITS/Informatics/3rd Term/PBO/breakout-max-main"/>
+			<item value="/Volumes/DentaDATA/Intellij/breakout-max-main/Breakout-Max"/>
+			<item value="/Volumes/DentaDATA/ITS/Informatics/3rd Term/PAA/MidPAA"/>
+			<item value="/Volumes/DentaDATA/ITS/Informatics/3rd Term/PAA/MidtermExamSera"/>
+			<item value="/Users/dentabramasta/Downloads/pbo_ets_50252011117"/>
+			<item value="/Volumes/DentaDATA/ITS/Informatics/3rd Term/PBO/UTSOOP 2"/>
+			<item value="/Users/dentabramasta/Downloads/UTSOOP"/>
+			<item value="/Volumes/DentaDATA/ITS/Informatics/3rd Term/PAA/MidTemDrigo"/>
+		</list>
+	</section>
+</section>

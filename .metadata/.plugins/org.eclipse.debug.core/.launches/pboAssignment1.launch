@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/pboClass/src/pboClass/pboAssignment1.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="pboClass.pboAssignment1"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="pboClass"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="pboClass"/>
+</launchConfiguration>

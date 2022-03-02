@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_tOik8F0TEeyITIQhxyCXPg">
+  <modelElement href="Pbo_week6.uml#_uWo1cF0TEeyITIQhxyCXPg"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_wE8KUF0TEeyITIQhxyCXPg" sourceAnchor="169.0,0.0" targetAnchor="100.0,150.0" dashed="true" superClass="_wE_NoF0TEeyITIQhxyCXPg" subClass="_wDbHYF0TEeyITIQhxyCXPg">
+    <modelElement href="Pbo_week6.uml#_uYZwAF0TEeyITIQhxyCXPg"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_wDbHYF0TEeyITIQhxyCXPg" name="Account" generalizations="_wE8KUF0TEeyITIQhxyCXPg">
+    <modelElement href="Pbo_week6.uml#_uW8-gF0TEeyITIQhxyCXPg"/>
+    <visualProperties xmi:id="_wDbHYV0TEeyITIQhxyCXPg" position="30.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_wDbHYl0TEeyITIQhxyCXPg" label="+"/>
+    <attributes xmi:id="_wDbHY10TEeyITIQhxyCXPg" name="AccHolder">
+      <modelElement href="Pbo_week6.uml#_uYdaYF0TEeyITIQhxyCXPg"/>
+      <stereotypes xmi:id="_wDbHZF0TEeyITIQhxyCXPg" name="LegacyStyledElement">
+        <modelElement href="Pbo_week6.uml#_uYeogF0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <visibility xmi:id="_wDbHZV0TEeyITIQhxyCXPg" label="-"/>
+      <cardinality xmi:id="_wDbHZl0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <type xmi:id="_wDbHZ10TEeyITIQhxyCXPg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_wDbHaF0TEeyITIQhxyCXPg" name="AccNum">
+      <modelElement href="Pbo_week6.uml#_uYeogV0TEeyITIQhxyCXPg"/>
+      <stereotypes xmi:id="_wDbHaV0TEeyITIQhxyCXPg" name="LegacyStyledElement">
+        <modelElement href="Pbo_week6.uml#_uYf2oF0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <visibility xmi:id="_wDbHal0TEeyITIQhxyCXPg" label="-"/>
+      <cardinality xmi:id="_wDbHa10TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <type xmi:id="_wDbHbF0TEeyITIQhxyCXPg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_wDbHbV0TEeyITIQhxyCXPg" defaultValue="0" name="AccBalance">
+      <modelElement href="Pbo_week6.uml#_uYf2oV0TEeyITIQhxyCXPg"/>
+      <stereotypes xmi:id="_wDbHbl0TEeyITIQhxyCXPg" name="LegacyStyledElement">
+        <modelElement href="Pbo_week6.uml#_uYhEwF0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <visibility xmi:id="_wDbHb10TEeyITIQhxyCXPg" label="-"/>
+      <cardinality xmi:id="_wDbHcF0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <type xmi:id="_wDbHcV0TEeyITIQhxyCXPg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_wDbHcl0TEeyITIQhxyCXPg" name="balance">
+      <modelElement href="Pbo_week6.uml#_uYhEwV0TEeyITIQhxyCXPg"/>
+      <stereotypes xmi:id="_wDbHc10TEeyITIQhxyCXPg" name="LegacyStyledElement">
+        <modelElement href="Pbo_week6.uml#_uYiS4F0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_wDbHdF0TEeyITIQhxyCXPg" name="MultiDeclaration">
+        <modelElement href="Pbo_week6.uml#_uY3qEF0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <visibility xmi:id="_wDbHdV0TEeyITIQhxyCXPg" label="-"/>
+      <cardinality xmi:id="_wDbHdl0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_wDbHd10TEeyITIQhxyCXPg" name="bankName">
+      <modelElement href="Pbo_week6.uml#_uYjhAF0TEeyITIQhxyCXPg"/>
+      <stereotypes xmi:id="_wDbHeF0TEeyITIQhxyCXPg" name="LegacyStyledElement">
+        <modelElement href="Pbo_week6.uml#_uYjhAV0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_wDbHeV0TEeyITIQhxyCXPg" name="MultiDeclaration">
+        <modelElement href="Pbo_week6.uml#_uY44MF0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <visibility xmi:id="_wDbHel0TEeyITIQhxyCXPg" label="-"/>
+      <cardinality xmi:id="_wDbHe10TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+    </attributes>
+    <operations xmi:id="_wDbHfF0TEeyITIQhxyCXPg" name="Account">
+      <modelElement href="Pbo_week6.uml#_uXDsMF0TEeyITIQhxyCXPg"/>
+      <keywords xmi:id="_wDbHfV0TEeyITIQhxyCXPg" keyword="create"/>
+      <visibility xmi:id="_wDbHfl0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wDbHf10TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_wDbHgF0TEeyITIQhxyCXPg">
+        <modelElement href="Pbo_week6.uml#_uXGIcF0TEeyITIQhxyCXPg"/>
+        <type xmi:id="_wDbHgV0TEeyITIQhxyCXPg" name="Account">
+          <modelElement href="Pbo_week6.uml#_uW8-gF0TEeyITIQhxyCXPg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_wDbHgl0TEeyITIQhxyCXPg" name="name">
+        <modelElement href="Pbo_week6.uml#_uXDsMV0TEeyITIQhxyCXPg"/>
+        <cardinality xmi:id="_wDbHg10TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+        <type xmi:id="_wDbHhF0TEeyITIQhxyCXPg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_wDbHhV0TEeyITIQhxyCXPg" name="number">
+        <modelElement href="Pbo_week6.uml#_uXETQF0TEeyITIQhxyCXPg"/>
+        <cardinality xmi:id="_wDbHhl0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+        <type xmi:id="_wDbHh10TEeyITIQhxyCXPg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_wDbHiF0TEeyITIQhxyCXPg" name="deposit">
+      <modelElement href="Pbo_week6.uml#_uXH9oF0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wDbHiV0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wDbHil0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_wDbHi10TEeyITIQhxyCXPg" name="amt">
+        <modelElement href="Pbo_week6.uml#_uXH9oV0TEeyITIQhxyCXPg"/>
+        <cardinality xmi:id="_wDbHjF0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+        <type xmi:id="_wDbHjV0TEeyITIQhxyCXPg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_wDbHjl0TEeyITIQhxyCXPg" name="withdraw">
+      <modelElement href="Pbo_week6.uml#_uXIksF0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wDbHj10TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wDbHkF0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_wDbHkV0TEeyITIQhxyCXPg" name="amt">
+        <modelElement href="Pbo_week6.uml#_uXIksV0TEeyITIQhxyCXPg"/>
+        <cardinality xmi:id="_wDbHkl0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+        <type xmi:id="_wDbHk10TEeyITIQhxyCXPg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_wDbHlF0TEeyITIQhxyCXPg" name="print">
+      <modelElement href="Pbo_week6.uml#_uXLA8F0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wDbHlV0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wDbHll0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_wE4f8F0TEeyITIQhxyCXPg" name="Main">
+    <modelElement href="Pbo_week6.uml#_uXUK4F0TEeyITIQhxyCXPg"/>
+    <visualProperties xmi:id="_wE4f8V0TEeyITIQhxyCXPg" position="103.0,316.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_wE4f8l0TEeyITIQhxyCXPg" label="+"/>
+    <operations xmi:id="_wE4f810TEeyITIQhxyCXPg" name="main" staticOperation="true">
+      <modelElement href="Pbo_week6.uml#_uXVZAF0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wE4f9F0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wE4f9V0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_wE4f9l0TEeyITIQhxyCXPg" name="args">
+        <modelElement href="Pbo_week6.uml#_uXVZAV0TEeyITIQhxyCXPg"/>
+        <cardinality xmi:id="_wE4f910TEeyITIQhxyCXPg" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_wE4f-F0TEeyITIQhxyCXPg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_wE_NoF0TEeyITIQhxyCXPg" name="InterfaceBankAccount" subclassedBy="_wE8KUF0TEeyITIQhxyCXPg">
+    <modelElement href="Pbo_week6.uml#_uXNdMF0TEeyITIQhxyCXPg"/>
+    <visualProperties xmi:id="_wE_NoV0TEeyITIQhxyCXPg" position="99.0,-175.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_wE_Nol0TEeyITIQhxyCXPg" label="+"/>
+    <attributes xmi:id="_wE_No10TEeyITIQhxyCXPg" defaultValue="&quot;JavaBank&quot;" name="BANK">
+      <modelElement href="Pbo_week6.uml#_uXOrUF0TEeyITIQhxyCXPg"/>
+      <stereotypes xmi:id="_wE_NpF0TEeyITIQhxyCXPg" name="LegacyStyledElement">
+        <modelElement href="Pbo_week6.uml#_uXQggF0TEeyITIQhxyCXPg"/>
+      </stereotypes>
+      <visibility xmi:id="_wE_NpV0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wE_Npl0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <type xmi:id="_wE_Np10TEeyITIQhxyCXPg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_wE_NqF0TEeyITIQhxyCXPg" name="balance">
+      <modelElement href="Pbo_week6.uml#_uXS8wF0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wE_NqV0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wE_Nql0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <type xmi:id="_wE_Nq10TEeyITIQhxyCXPg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_wE_NrF0TEeyITIQhxyCXPg" name="bankName">
+      <modelElement href="Pbo_week6.uml#_uXTj0F0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wE_NrV0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wE_Nrl0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <type xmi:id="_wE_Nr10TEeyITIQhxyCXPg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_wE_NsF0TEeyITIQhxyCXPg" name="deposit">
+      <modelElement href="Pbo_week6.uml#_uXRuoF0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wE_NsV0TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wE_Nsl0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_wE_Ns10TEeyITIQhxyCXPg" name="amt">
+        <modelElement href="Pbo_week6.uml#_uXRuoV0TEeyITIQhxyCXPg"/>
+        <cardinality xmi:id="_wE_NtF0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+        <type xmi:id="_wE_NtV0TEeyITIQhxyCXPg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_wE_Ntl0TEeyITIQhxyCXPg" name="withdraw">
+      <modelElement href="Pbo_week6.uml#_uXSVsF0TEeyITIQhxyCXPg"/>
+      <visibility xmi:id="_wE_Nt10TEeyITIQhxyCXPg" label="+"/>
+      <cardinality xmi:id="_wE_NuF0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_wE_NuV0TEeyITIQhxyCXPg" name="amt">
+        <modelElement href="Pbo_week6.uml#_uXSVsV0TEeyITIQhxyCXPg"/>
+        <cardinality xmi:id="_wE_Nul0TEeyITIQhxyCXPg" label="1" max="1" min="1"/>
+        <type xmi:id="_wE_Nu10TEeyITIQhxyCXPg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
